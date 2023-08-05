@@ -1,5 +1,6 @@
 import React from "react";
 
+
 /*
      "Eine Komponente gibt im Grunde JSX zurück."
      "JSX is a syntax style resembling HTML."
